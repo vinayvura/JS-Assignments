@@ -1,2 +1,2 @@
-# JS-Assignments
-LetsUpgrade's Assignments
+# Projects
+My own projects and work
